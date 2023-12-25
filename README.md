@@ -23,7 +23,7 @@ tqdm for displaying progress bars during puzzle solving.
 2. Define File Paths
 Paths to the puzzle data files are defined:
 
-<u>puzzle_info_path</u>: Path to the file containing information about puzzle types and allowed moves.
+puzzle_info_path: Path to the file containing information about puzzle types and allowed moves.
 puzzles_path: Path to the file with individual puzzle data.
 sample_submission_path: Path to the sample submission file.
 
