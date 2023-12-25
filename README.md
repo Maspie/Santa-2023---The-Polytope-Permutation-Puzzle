@@ -18,12 +18,16 @@ json for parsing JSON data.
 heapq for implementing priority queues, essential for the A* search algorithm.
 time for tracking the execution time of the search algorithm.
 tqdm for displaying progress bars during puzzle solving.
+
+
 2. Define File Paths
 Paths to the puzzle data files are defined:
 
 puzzle_info_path: Path to the file containing information about puzzle types and allowed moves.
 puzzles_path: Path to the file with individual puzzle data.
 sample_submission_path: Path to the sample submission file.
+
+
 3. Load and Parse Data
 Puzzle data is loaded from CSV files using pandas:
 
@@ -40,6 +44,8 @@ heuristic: Estimates the cost from the current state to the goal state, used in 
 a_star_search: Implements the A* search algorithm to find a solution path.
 format_solution_for_submission: Formats the solution into a string suitable for submission.
 solve_puzzles: Solves a specified number of puzzles using the A* search algorithm.
+
+
 5. Solve Puzzles
 The solve_puzzles function is called to solve the first 30 puzzles. It iterates through each puzzle, applies the A* search algorithm, and formats the solution.
 
