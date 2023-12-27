@@ -1,7 +1,7 @@
 # Santa-2023---The-Polytope-Permutation-Puzzle
 
 Santa 2023 using A* search!!
-This Python script is designed to solve a set of puzzles as part of a Kaggle competition. It involves loading puzzle data, applying an A* search algorithm to find solutions, and saving these solutions in a format suitable for submission.
+This Python script is designed to solve a set of puzzles as part of a Kaggle competition. It involves loading puzzle data, applying an A* search algorithm to find solutions, and saving these solutions in a format suitable for submission. This method takes too much time to find solution. 
 
 Overview of Steps
 Import Libraries
