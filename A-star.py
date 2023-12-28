@@ -95,5 +95,5 @@ output_csv_path = '/kaggle/working/solution.csv'
 # Save the output DataFrame to a CSV file
 solved_puzzles_df.to_csv(output_csv_path, index=False)
 
-# Display the path of the saved file
+# Display the path of the saved file (For kaggle else not needed)
 print(f"Solution saved to: {output_csv_path}")
