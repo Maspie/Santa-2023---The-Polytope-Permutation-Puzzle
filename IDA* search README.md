@@ -1,4 +1,5 @@
 Iterative Deepening A* (IDA*) Algorithm
+
 Introduction
 The Iterative Deepening A (IDA)** algorithm is an advanced search algorithm used in computer science, particularly in the field of Artificial Intelligence for pathfinding and graph traversing problems. It combines the strengths of two powerful algorithms: the A search algorithm* and Iterative Deepening Depth-First Search (IDDFS).
 
